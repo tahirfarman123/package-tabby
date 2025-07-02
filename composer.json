@@ -1,0 +1,22 @@
+{
+  "name": "muazzamkhan/laravel-tabby",
+  "description": "Tabby Payment Gateway integration for Laravel",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "YourVendor\\Tabby\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "muazzamkhan\\Tabby\\TabbyServiceProvider"
+      ]
+    }
+  },
+  "require": {
+    "php": "^8.0",
+    "guzzlehttp/guzzle": "^7.0"
+  }
+}
