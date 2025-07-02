@@ -17,7 +17,6 @@
   },
   "require": {
     "php": "^8.0",
-    "guzzlehttp/guzzle": "^7.0",
-    "tahirfarman123/laravel-tabby": "main"
+    "guzzlehttp/guzzle": "^7.0"
   }
 }
