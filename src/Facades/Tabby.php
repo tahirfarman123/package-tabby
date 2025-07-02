@@ -1,6 +1,6 @@
 <?php
 
-namespace tahirfarman123\Tabby\Facades;
+namespace tahirfarman123\packageTabby\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

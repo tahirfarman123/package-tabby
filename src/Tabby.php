@@ -1,6 +1,6 @@
 <?php
 
-namespace tahirfarman123\Tabby;
+namespace tahirfarman123\packageTabby;
 
 use Illuminate\Support\Facades\Http;
 
