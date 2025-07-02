@@ -5,13 +5,13 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "tahirfarman123\\package-tabby\\": "src/"
+      "tahirfarman123\\packageTabby\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "tahirfarman123\\package-tabby\\TabbyServiceProvider"
+        "tahirfarman123\\packageTabby\\TabbyServiceProvider"
       ]
     }
   },
