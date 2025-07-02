@@ -1,5 +1,5 @@
 {
-  "name": "muazzamkhan/laravel-tabby",
+  "name": "tahirfarman123/laravel-tabby",
   "description": "Tabby Payment Gateway integration for Laravel",
   "type": "library",
   "license": "MIT",
@@ -11,7 +11,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "muazzamkhan\\Tabby\\TabbyServiceProvider"
+        "tahirfarman123\\Tabby\\TabbyServiceProvider"
       ]
     }
   },

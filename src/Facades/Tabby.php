@@ -1,6 +1,6 @@
 <?php
 
-namespace muazzamkhan\Tabby\Facades;
+namespace tahirfarman123\Tabby\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
